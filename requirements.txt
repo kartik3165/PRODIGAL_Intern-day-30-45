@@ -3,4 +3,3 @@ pandas
 scikit-learn
 mlxtend
 matplotlib
-sklearn

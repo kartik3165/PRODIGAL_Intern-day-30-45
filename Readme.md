@@ -18,7 +18,8 @@ Bias-Variance Analysis:
 ```
 python bias_variance/experiments.py
 ```
-Generates a plot saved to paper/figures/bv_plot.png.
+Generates a plot saved to 
+```bv_plot.png```
 
 SVM Evaluation:
 ```
