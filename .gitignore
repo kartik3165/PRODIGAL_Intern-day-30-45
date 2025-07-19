@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Test and log files
+*.log
+*.out
+
+# Python environment
+*.egg-info/
+dist/
+build/
+
+# Data or model files
+*.csv
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# If you're using sklearn.datasets and saving them
+*.data
+*.target
